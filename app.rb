@@ -19,7 +19,3 @@ class App < Sinatra::Base
   end
 
 end
-
-  get /name
-
-end
